@@ -360,14 +360,6 @@
     "result_df\n"
    ]
   },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "8a4d7a38-7712-4b7d-8583-e8c641d6dc20",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
  ],
  "metadata": {
   "kernelspec": {
